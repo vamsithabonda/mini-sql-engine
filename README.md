@@ -14,13 +14,13 @@ The engine loads data from CSV files into memory and allows users to execute SQL
 * Select all columns using SELECT *
 * Select specific columns
 * Filter data using WHERE conditions
-* Support comparison operators:
-  * =
-  * !=
-  * >
-  * <
-  * > =
-  * <=
+- Support comparison operators:
+  - `=`
+  - `!=`
+  - `>`
+  - `<`
+  - `>=`
+  - `<=`
 * Support COUNT(*) aggregation
 * Interactive SQL command-line interface
 * Error handling for invalid queries and missing columns

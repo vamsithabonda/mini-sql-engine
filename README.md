@@ -20,7 +20,7 @@ The engine loads data from CSV files into memory and allows users to execute SQL
   * !=
   * >
   * <
-  * > =
+  * >=
   * <=
 * Support COUNT(*) aggregation
 * Interactive SQL command-line interface
